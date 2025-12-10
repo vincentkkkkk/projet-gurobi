@@ -1,4 +1,3 @@
-* Signature: 0xb30540105e64925e
 NAME HashCodeExact
 OBJSENSE MAX
 ROWS
